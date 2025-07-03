@@ -1,7 +1,6 @@
 # Contributing
-Template of contributing guidelines for Cefriel repositories-
 
-Add to the README of the repositories the following Markdown content.
+Template of contributing guidelines for Cefriel repositories. Add to the README of the repositories the following Markdown content.
 
 ```markdown
 ### Contributing
